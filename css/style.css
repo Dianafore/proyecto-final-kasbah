@@ -108,6 +108,17 @@ background-color: black;
 .grid-container img{
     width: 250px;
 }
+/* Accesorios */
+h4{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+.img-fluid{
+    max-width: 30%;
+
+}
+
 /* Footer */
 .footer{
     background-color: #DFD5A5;
